@@ -1,2 +1,3 @@
 # Numpy
-This project uses numpy zeros and ones function to create a 5 by 5 matrix which has 9 in the center zeros in the [1:4, 1:4] position and ones in the outer.
+This project uses numpy zeros and ones function to create the figure in this picture
+![photo_2023-03-04_12-02-21](https://user-images.githubusercontent.com/77840765/224186944-c34692d2-46ee-4976-b981-e3079a6c6010.jpg)
